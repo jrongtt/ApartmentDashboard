@@ -2,9 +2,7 @@
 
 Code for an Tableau Dashboard for apartment data.
 
-The Apartment Data is web scraped through Zumper for the 25 most populous cities in the notebook file 'PythonwebScraper.ipynb'.
-
-This Data was saved in CSV Files under the 'data' directory
+The Apartment Data is web scraped through Zumper for the 25 most populous cities in the notebook file 'PythonwebScraper.ipynb'. This Data was saved in CSV Files under the 'data' directory
 
 Then the median rental price is calculated for the 25 cities and added to a csv along with the median incomes for those cities in the notebook file 'medians.ipynb'
 
